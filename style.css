@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent-div {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+h1 {
+    padding: 50px;
+}
+
+.button {
+    margin: 7px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#green {
+    background-color: greenyellow;
+}
+
+#cyan {
+    background-color: cyan;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#brown {
+    background-color: brown;
+}
+
+#hotpink {
+    background-color: hotpink;
+}
+
+.instruct {
+    padding: 50px;
+    text-align: center;
+}
